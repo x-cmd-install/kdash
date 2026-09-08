@@ -5,13 +5,13 @@ about:
   head: c303673
   archived: false
   latestVersion: "v2.1.1"
-  collectedAt: 2026-09-08T02:36:52Z
+  collectedAt: 2026-09-08T05:26:06Z
 timeline:
   created: 2021-04-13
   lastCommit: 2026-08-27
   lastRelease: 2026-07-22
 popularity:
-  star: 2530
+  star: 2531
   watcher: 13
   fork: 94
   release: 49
@@ -84,7 +84,7 @@ total:
   commit: 1059
 ---
 path: /home/runner/.x-repo/github.com/kdash-rs/kdash
-collectedAt: 2026-09-08T02:36:53Z
+collectedAt: 2026-09-08T05:26:08Z
 loc:
   Rust:
     code: 25469
