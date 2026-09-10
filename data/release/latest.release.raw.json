@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 6534728,
       "digest": "sha256:55b32d7d953ff40f3dc6ff8425bd95391fa6d2c3e935950457bc033201e5c9f4",
-      "download_count": 170,
+      "download_count": 173,
       "created_at": "2026-07-22T18:45:59Z",
       "updated_at": "2026-07-22T18:46:00Z",
       "browser_download_url": "https://github.com/kdash-rs/kdash/releases/download/v2.1.1/kdash-linux-musl.tar.gz"

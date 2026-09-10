@@ -1,0 +1,127 @@
+- repo: aur
+  srcname: kdash-bin
+  binname: kdash-bin
+  visiblename: kdash-bin
+  version: 2.1.1
+  origversion: 2.1.1-1
+  status: newest
+  summary: A simple and fast dashboard for Kubernetes
+  maintainers:
+    - jaysonsantos@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: kdash-git
+  binname: kdash-git
+  visiblename: kdash-git
+  version: 0.0.1.r0.g0000000
+  origversion: 0.0.1.r0.g0000000-1
+  status: rolling
+  summary: A fast and simple dashboard for Kubernetes (git main)
+  maintainers:
+    - deepu105@aur
+  licenses:
+    - MIT
+- repo: chocolatey
+  binname: kdash
+  visiblename: KDash
+  version: 2.1.1
+  origversion: null
+  status: newest
+  summary: A fast and simple dashboard for Kubernetes written in Rust.
+- repo: aur
+  srcname: kdash
+  binname: kdash
+  visiblename: kdash
+  version: 2.1.1
+  origversion: 2.1.1-1
+  status: newest
+  summary: A simple and fast dashboard for Kubernetes
+  maintainers:
+    - ogarcia@aur
+    - deepu105@aur
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: kdash
+  visiblename: kdash
+  version: 2.1.1
+  origversion: null
+  status: newest
+  summary: Simple and fast dashboard for Kubernetes
+- repo: homebrew
+  srcname: kdash
+  visiblename: kdash
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Simple and fast dashboard for Kubernetes
+- repo: macports
+  srcname: sysutils/kdash
+  binname: kdash
+  visiblename: kdash
+  version: 2.1.1
+  origversion: null
+  status: newest
+  summary: A simple and fast dashboard for Kubernetes written in Rust
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - MIT
+  categories:
+    - sysutils
+- repo: nix_stable_24_05
+  srcname: kdash
+  visiblename: kdash
+  version: 0.6.0
+  origversion: null
+  status: outdated
+  summary: A simple and fast dashboard for Kubernetes
+  maintainers:
+    - mail@beyermatthias.de
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: kdash
+  visiblename: kdash
+  version: 0.6.1
+  origversion: null
+  status: outdated
+  summary: Simple and fast dashboard for Kubernetes
+  maintainers:
+    - mail@beyermatthias.de
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: kdash
+  visiblename: kdash
+  version: 0.6.2
+  origversion: null
+  status: outdated
+  summary: Simple and fast dashboard for Kubernetes
+  maintainers:
+    - mail@beyermatthias.de
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: kdash
+  visiblename: kdash
+  version: 0.6.2
+  origversion: null
+  status: outdated
+  summary: Simple and fast dashboard for Kubernetes
+  maintainers:
+    - mail@beyermatthias.de
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: kdash
+  visiblename: kdash
+  version: 1.1.2
+  origversion: null
+  status: outdated
+  summary: Simple and fast dashboard for Kubernetes
+  maintainers:
+    - mail@beyermatthias.de
+  licenses:
+    - MIT
