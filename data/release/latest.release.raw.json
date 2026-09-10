@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 7566,
       "digest": "sha256:c0b4e71835769c8b389f3ef584ac2addc0d68f90a4d5dc2df3642fd96ca75754",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-07-22T18:53:21Z",
       "updated_at": "2026-07-22T18:53:21Z",
       "browser_download_url": "https://github.com/kdash-rs/kdash/releases/download/v2.1.1/install.ps1"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 6534728,
       "digest": "sha256:55b32d7d953ff40f3dc6ff8425bd95391fa6d2c3e935950457bc033201e5c9f4",
-      "download_count": 162,
+      "download_count": 165,
       "created_at": "2026-07-22T18:45:59Z",
       "updated_at": "2026-07-22T18:46:00Z",
       "browser_download_url": "https://github.com/kdash-rs/kdash/releases/download/v2.1.1/kdash-linux-musl.tar.gz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 6443521,
       "digest": "sha256:97507163287b0de2e246624a4f6dba2fc79290d2b003c9c711d2c73343a2f3d6",
-      "download_count": 479,
+      "download_count": 482,
       "created_at": "2026-07-22T18:44:55Z",
       "updated_at": "2026-07-22T18:44:56Z",
       "browser_download_url": "https://github.com/kdash-rs/kdash/releases/download/v2.1.1/kdash-linux.tar.gz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 5692576,
       "digest": "sha256:9090a94d6fdd31c1142238330aa9a175fa5e3020706d5ed503ba32e9e8a15abf",
-      "download_count": 384,
+      "download_count": 385,
       "created_at": "2026-07-22T18:41:31Z",
       "updated_at": "2026-07-22T18:41:32Z",
       "browser_download_url": "https://github.com/kdash-rs/kdash/releases/download/v2.1.1/kdash-macos-arm64.tar.gz"
