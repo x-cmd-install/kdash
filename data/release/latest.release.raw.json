@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 6534728,
       "digest": "sha256:55b32d7d953ff40f3dc6ff8425bd95391fa6d2c3e935950457bc033201e5c9f4",
-      "download_count": 179,
+      "download_count": 182,
       "created_at": "2026-07-22T18:45:59Z",
       "updated_at": "2026-07-22T18:46:00Z",
       "browser_download_url": "https://github.com/kdash-rs/kdash/releases/download/v2.1.1/kdash-linux-musl.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 85,
       "digest": "sha256:6b300a1a9b545b25aa828c3271fd4b1900a63724bce69d259dbf30eaeb2d0d71",
-      "download_count": 105,
+      "download_count": 106,
       "created_at": "2026-07-22T18:44:55Z",
       "updated_at": "2026-07-22T18:44:55Z",
       "browser_download_url": "https://github.com/kdash-rs/kdash/releases/download/v2.1.1/kdash-linux.sha256"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 6443521,
       "digest": "sha256:97507163287b0de2e246624a4f6dba2fc79290d2b003c9c711d2c73343a2f3d6",
-      "download_count": 494,
+      "download_count": 503,
       "created_at": "2026-07-22T18:44:55Z",
       "updated_at": "2026-07-22T18:44:56Z",
       "browser_download_url": "https://github.com/kdash-rs/kdash/releases/download/v2.1.1/kdash-linux.tar.gz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 5692576,
       "digest": "sha256:9090a94d6fdd31c1142238330aa9a175fa5e3020706d5ed503ba32e9e8a15abf",
-      "download_count": 388,
+      "download_count": 390,
       "created_at": "2026-07-22T18:41:31Z",
       "updated_at": "2026-07-22T18:41:32Z",
       "browser_download_url": "https://github.com/kdash-rs/kdash/releases/download/v2.1.1/kdash-macos-arm64.tar.gz"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 6494483,
       "digest": "sha256:0a67aa5658c10117918b5782a4563d2f1ed9466165d889e1541a31461abb1291",
-      "download_count": 138,
+      "download_count": 141,
       "created_at": "2026-07-22T18:53:01Z",
       "updated_at": "2026-07-22T18:53:02Z",
       "browser_download_url": "https://github.com/kdash-rs/kdash/releases/download/v2.1.1/kdash-windows.tar.gz"
