@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,533 · **Forks**: 94 · **Open issues**: 114 · **Contributors**: 15
+- **Stars**: 2,534 · **Forks**: 94 · **Open issues**: 114 · **Contributors**: 15
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 3 | 3 | 0 | 0 | 3 |
-| last60d | 2026-07-13 | 1 | 15 | 3 | 1 | 0 | 20 |
-| 90d | 2026-06-13 | 5 | 24 | 3 | 6 | 0 | 54 |
-| last180d | 2026-03-15 | 9 | 44 | 3 | 10 | 0 | 198 |
-| 360d | 2025-09-16 | 9 | 46 | 3 | 12 | 0 | 202 |
-| last720d | 2024-09-21 | 10 | 48 | 3 | 18 | 0 | 266 |
+| 30d | 2026-08-14 | 0 | 3 | 3 | 0 | 0 | 1 |
+| last60d | 2026-07-15 | 1 | 15 | 3 | 1 | 0 | 18 |
+| 90d | 2026-06-15 | 5 | 24 | 3 | 6 | 0 | 40 |
+| last180d | 2026-03-17 | 9 | 44 | 3 | 10 | 0 | 198 |
+| 360d | 2025-09-18 | 9 | 46 | 3 | 12 | 0 | 202 |
+| last720d | 2024-09-23 | 10 | 48 | 3 | 18 | 0 | 266 |
 
 ## Release assets
 
@@ -115,4 +115,4 @@ Install metadata for kdash lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T19:27:08Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:40:50Z._
