@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 3 | 3 | 0 | 0 | 1 |
-| last60d | 2026-07-17 | 1 | 13 | 3 | 1 | 0 | 18 |
-| 90d | 2026-06-17 | 4 | 24 | 3 | 6 | 0 | 40 |
-| last180d | 2026-03-19 | 9 | 44 | 3 | 10 | 0 | 198 |
-| 360d | 2025-09-20 | 9 | 46 | 3 | 12 | 0 | 202 |
-| last720d | 2024-09-25 | 10 | 48 | 3 | 18 | 0 | 266 |
+| 30d | 2026-08-17 | 0 | 2 | 3 | 0 | 0 | 1 |
+| last60d | 2026-07-18 | 1 | 13 | 3 | 1 | 0 | 18 |
+| 90d | 2026-06-18 | 4 | 23 | 3 | 5 | 0 | 40 |
+| last180d | 2026-03-20 | 9 | 44 | 3 | 10 | 0 | 198 |
+| 360d | 2025-09-21 | 9 | 46 | 3 | 12 | 0 | 202 |
+| last720d | 2024-09-26 | 10 | 48 | 3 | 18 | 0 | 266 |
 
 ## Release assets
 
@@ -107,4 +107,4 @@ Install metadata for kdash lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T05:46:11Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T05:41:39Z._
