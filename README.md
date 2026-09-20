@@ -4,7 +4,7 @@
 
 A simple and fast dashboard for Kubernetes
 
-![kdash](https://repo.x-cmd.io/kdash.svg)
+[![x-cmd/install — kdash Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kdash.svg)](https://x-cmd.com/install/kdash)
 
 ## Install
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 1 | 3 | 0 | 0 | 1 |
-| last60d | 2026-07-20 | 1 | 11 | 3 | 0 | 0 | 18 |
-| 90d | 2026-06-20 | 3 | 23 | 3 | 4 | 0 | 40 |
-| last180d | 2026-03-22 | 9 | 44 | 3 | 10 | 0 | 198 |
-| 360d | 2025-09-23 | 9 | 46 | 3 | 12 | 0 | 202 |
-| last720d | 2024-09-28 | 10 | 48 | 3 | 18 | 0 | 266 |
+| 30d | 2026-08-21 | 0 | 1 | 3 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 1 | 11 | 3 | 0 | 0 | 6 |
+| 90d | 2026-06-22 | 3 | 21 | 3 | 4 | 0 | 33 |
+| last180d | 2026-03-24 | 9 | 44 | 3 | 10 | 0 | 198 |
+| 360d | 2025-09-25 | 9 | 46 | 3 | 12 | 0 | 202 |
+| last720d | 2024-09-30 | 10 | 48 | 3 | 18 | 0 | 266 |
 
 ## Release assets
 
@@ -107,4 +107,4 @@ Install metadata for kdash lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:36:45Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:38:53Z._
