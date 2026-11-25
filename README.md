@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-08-26 | 0 | 0 | 5 | 0 | 0 | 0 |
-| last180d | 2026-05-28 | 5 | 32 | 5 | 7 | 0 | 85 |
-| 360d | 2025-11-29 | 9 | 45 | 5 | 10 | 0 | 200 |
-| last720d | 2024-12-04 | 10 | 48 | 5 | 18 | 0 | 266 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-08-27 | 0 | 0 | 5 | 0 | 0 | 0 |
+| last180d | 2026-05-29 | 5 | 32 | 5 | 7 | 0 | 85 |
+| 360d | 2025-11-30 | 9 | 45 | 5 | 10 | 0 | 200 |
+| last720d | 2024-12-05 | 10 | 48 | 5 | 18 | 0 | 266 |
 
 ## Release assets
 
@@ -98,14 +98,6 @@ Lowest-scoring checks:
 | [kdash-windows.sha256](https://github.com/kdash-rs/kdash/releases/download/v2.1.1/kdash-windows.sha256) | 65 B | `native/win/x64` |
 | [kdash-windows.tar.gz](https://github.com/kdash-rs/kdash/releases/download/v2.1.1/kdash-windows.tar.gz) | 6.2 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **12** distros on [repology.org](https://repology.org/project/kdash). **5** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `2.1.1` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for kdash lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kdash` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -115,4 +107,4 @@ Install metadata for kdash lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:53:33Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:53:19Z._
